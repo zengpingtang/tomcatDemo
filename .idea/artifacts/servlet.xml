@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="servlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/servlet</output-path>
+    <root id="archive" name="servlet.jar">
+      <element id="module-output" name="tomcatDemo" />
+    </root>
+  </artifact>
+</component>
